@@ -1,2 +1,2 @@
-# Noname-extension
-Personal Use
+# ZBGenshin V1-Noname extension
+For Personal Use
