@@ -1,2 +1,2 @@
-# ZBGenshin V1-Noname extension
+# Genshin Impact Characters extension for Noname
 For Personal Use
